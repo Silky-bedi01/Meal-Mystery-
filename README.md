@@ -19,9 +19,6 @@ Meal Mystery is an **Android application** developed with **Java and XML** that 
 
 ## Installation & Setup 
 1. **Clone the Repository**
-```bash
-git clone https://github.com/Silky-bedi01/Meal-Mystery-.git
-```
 2. **Open in Android Studio** and sync Gradle.
 3. **Run the App** on an emulator or physical device.
 
