@@ -24,5 +24,10 @@ Meal Mystery is an **Android application** developed with **Java and XML** that 
 
 ## API Usage 
 The app is retrieving data from an online recipe API. Ensure you have a working internet connection.
+## Screenshots
+<img src="https://github.com/user-attachments/assets/8a63b03a-db4d-4e79-8bed-11f989e7ad7e" alt="Description" width="200" >    <img src="https://github.com/user-attachments/assets/532a2ac9-0493-425f-909c-3fade7531de5" alt="Description" width="200" >    <img src="https://github.com/user-attachments/assets/9e750a9b-06e5-46bb-b9ed-758b9a0f0154" alt="Description" width="200" >    <img src="https://github.com/user-attachments/assets/ea81293b-191b-47bf-aaa6-04030bdce984" alt="Description" width="200" >
+
+
+
 
 ---
